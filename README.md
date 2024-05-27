@@ -51,7 +51,7 @@ python main.py
 
 
 ## Gestures
-![Gesture List](https://ibb.co/kcfWpTV)
+<img alt="Gesture List" src="https://ibb.co/kcfWpTV">
 * **Up** 
 * **Down**
 * **Left**
