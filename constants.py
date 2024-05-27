@@ -1,0 +1,9 @@
+LANDING_GESTURE_HOLD_TIME = 30  # Время (в кадрах) для удержания жеста посадки
+FLIP_GESTURE_HOLD_TIME = 30     # Время (в кадрах) для удержания жеста переворота
+TELLO_SSID = "TELLO-F12A07"     # SSID сети Tello
+WIFI_SIGNAL_THRESHOLD = -70     # Пороговое значение уровня сигнала Wi-Fi
+VELOCITY_CONTROLLER_THRESHOLD = 10  # Порог для контроллера скорости
+MAX_VELOCITY = 50               # Максимальная скорость дрона
+SMOOTHING_FACTOR = 0.5          # Коэффициент сглаживания
+USE_BRECT = True                # Использовать ограничивающий прямоугольник для отслеживания объекта
+LOW_BATTERY = 10                # Порог низкого заряда батареи (в процентах)
